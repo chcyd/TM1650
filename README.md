@@ -49,7 +49,7 @@ dat 代表亮度，范围是 0 - 8，0代表关闭，8代表最亮。
 
 ## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/TM1650_cn/master/demo.jpg)
+![](https://github.com/chcyd/TM1650/demo.jpg)
 
 ## 授权方式  
 
