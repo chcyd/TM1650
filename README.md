@@ -12,7 +12,7 @@ makecode 4 位数码管显示 (TM1650) 的 microbit 软件包
 
 打开 makecode 编辑器，在项目中选择添加软件包，然后在地址栏输入下面网址  
 
-https://github.com/microbit-makecode-packages/TM1650_cn  
+https://github.com/chcyd/TM1650
 
 搜索后就可以添加并使用本软件包了。  
 
