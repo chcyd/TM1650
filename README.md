@@ -6,7 +6,7 @@ makecode 4 位数码管显示 (TM1650) 的 microbit 软件包
 作者: shaoziyang  
 日期: 2018年3月  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/TM1650_cn/master/icon.png)  
+![](./icon.png)  
 
 ## 使用方法
 
@@ -16,7 +16,7 @@ https://github.com/microbit-makecode-packages/TM1650_cn
 
 搜索后就可以添加并使用本软件包了。  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/TM1650_cn/master/4-LED.jpg)
+![](./4-LED.jpg)
 
 ## API
 
